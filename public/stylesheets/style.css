@@ -51,18 +51,6 @@ body {
     min-width: 260px;
 }
 
-.toggle-btn {
-    background-color: transparent;
-    cursor: pointer;
-    border: 0;
-    padding: 1rem 1.5rem;
-}
-
-.toggle-btn i {
-    font-size: 1.5rem;
-    color: #FFF;
-}
-
 .sidebar-logo {
     margin: auto 0;
 }
@@ -74,7 +62,7 @@ body {
 }
 
 .sidebar-logo img {
-    height: 70px;
+    height: 60px;
     width: 150px;
     margin: 2rem;
 }
